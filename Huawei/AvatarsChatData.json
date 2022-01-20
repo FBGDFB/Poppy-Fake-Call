@@ -1,7 +1,34 @@
 {
     "Virtion": 5,
     "Data": [
-        
+        {
+            "Name": "Mr.Huggy",
+            "Nomber": "+09903 56 2345",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw2/Huggy.png",
+            "ChatDataUrl": "",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw2/hero_voice1.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw2/hero_video.mp4",
+            "Best": true,
+            "New": true,
+            "Coins": 15
+        },
+        {
+            "Name": "Mr.Poppy",
+            "Nomber": "+09003 56 45 22",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw1/Poppy.png",
+            "ChatDataUrl": "",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw1/b.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Raw1/a.mp4",
+            "Best": true,
+            "New": true,
+            "Coins": 15
+        },
         {
             "Name": "Mr.Steven black",
             "Nomber": "+09443 33 45 22",
