@@ -1,9 +1,14 @@
 { 
-    "Virtion": 4,
+    "Virtion": 5,
     "Data": [
         {
             "Name": "",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Ads/professionally.jpg",
+            "GameUrl": "",
+            "Stars": 5
+        },{
+            "Name": "",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/rank.jpg",
             "GameUrl": "",
             "Stars": 5
         }
