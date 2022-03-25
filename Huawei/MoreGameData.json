@@ -1,15 +1,21 @@
 { 
-    "Virtion": 7,
-    "Data": [{
-            "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Ads/Ramadan.jpg",
-            "GameUrl": "",
+    "Virtion": 8,
+    "Data": [ {
+            "Name": "Download now",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20All%20in%20one%20game.jpg",
+            "GameUrl": "https://appgallery.huawei.com/app/C104185441",
             "Stars": 5
         },
         {
-            "Name": "",
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Poppy-Fake-Call/main/Ads/professionally.jpg",
-            "GameUrl": "",
+            "Name": "Download now",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20frive.jpg",
+            "GameUrl": "https://appgallery.huawei.com/app/C104185441",
+            "Stars": 5
+        },
+        {
+            "Name": "Download now",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/%20html%20games.jpg",
+            "GameUrl": "https://appgallery.huawei.com/app/C104185441",
             "Stars": 5
         },{
             "Name": "",
